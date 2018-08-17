@@ -11,7 +11,7 @@
 
 if __name__ == '__main__':
 
-    print("You will be asked to enter to integers\n")
+    print("You will be asked to enter two integers\n")
     x = int(input("Enter Integer 1: "))
     y = int(input("Enter Integer 2: "))
 
